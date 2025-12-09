@@ -1,4 +1,37 @@
-## Hi there 👋
+# About
+I am a web developer on a never ending improvement journey.
+
+
+# Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <img width="310" alt="image" src="https://github.com/user-attachments/assets/ad300c45-9759-4e54-9196-488ac73700d8" />
+    </td>
+    <td width=900 valign=top>
+      <h2>
+        Text to speech
+      </h2>
+      <p>
+        Free text to speech software that runs locally on the users web browser.
+      </p>
+      <ul>
+        <li>
+          100% Free: Runs nativly in the users web browser making it cost near nothing to host and free for others to use.
+        </li>
+        <li>
+          Web or Native: Can be used in the web browser or on device by way of a progressive web app.
+        </li>
+      </ul>
+    </td>
+    
+    
+  </tr>
+  
+</table>
+
+
 
 <!--
 **MrThinkins/MrThinkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
