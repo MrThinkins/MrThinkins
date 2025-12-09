@@ -23,7 +23,13 @@ I am a web developer on a never ending improvement journey.
         <li>
           Web or Native: Can be used in the web browser or on device by way of a progressive web app.
         </li>
+        <li>
+          Fast: Uses the korkor.js library to run the llm fast on webgpu if it is available, or wasm if it is not.
+        </li>
       </ul>
+      Use it here: <a href="https://tts.thinkins.xyz">tts.thinkins.xyz</a>
+      <br>
+      See the code here: <a href="https://github.com/MrThinkins/text-to-speach-native-to-web">Github</a>
     </td>
     
     
